@@ -1,5 +1,5 @@
 # JMeter
-**installl  jmeter on lunix  
+**Install  jmeter on Linux  
 
 - visit : https://jmeter.apache.org/download_jmeter.cgi
 - mkdir Jmeter
