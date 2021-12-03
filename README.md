@@ -4,6 +4,9 @@
 - visit : https://jmeter.apache.org/download_jmeter.cgi
 - mkdir Jmeter
 - download on folder Jmeter:  apache-jmeter-5.4.1.tgz
+![Alt text](/home/ismail/Pictures/jmeter.png?raw=true "Jmeter")
+
+
 - cd Jmeter
 - tar -xf apache-jmeter-5.4.1.tgz
 - cd apache-jmeter-5.4.1/
